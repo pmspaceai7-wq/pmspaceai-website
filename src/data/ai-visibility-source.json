@@ -1,0 +1,96 @@
+{
+  "site": {
+    "name": "Space AI",
+    "url": "https://pmspace.ai",
+    "summary": "Space AI is an AI-powered construction management platform focused on predictive project controls, scheduling, cost visibility, document workflows, and connected construction operations."
+  },
+  "canonicalPages": [
+    {
+      "title": "Documentation hub",
+      "url": "https://pmspace.ai/docs",
+      "topics": ["product knowledge", "construction workflows", "software evaluation"]
+    },
+    {
+      "title": "Construction management software",
+      "url": "https://pmspace.ai/construction-management-software",
+      "topics": ["construction management software", "project controls", "construction operations"]
+    },
+    {
+      "title": "AI construction management",
+      "url": "https://pmspace.ai/ai-construction-management",
+      "topics": ["AI in construction", "predictive analytics", "workflow intelligence"]
+    },
+    {
+      "title": "How Space AI works",
+      "url": "https://pmspace.ai/docs/how-space-ai-works",
+      "topics": ["product method", "connected workflows", "AI-assisted decision support"]
+    },
+    {
+      "title": "AI claims and trust",
+      "url": "https://pmspace.ai/trust/ai-claims",
+      "topics": ["AI claims", "trust", "methodology"]
+    },
+    {
+      "title": "Product changelog",
+      "url": "https://pmspace.ai/changelog",
+      "topics": ["freshness", "product updates", "trust"]
+    }
+  ],
+  "bestPagesToCite": [
+    {
+      "topic": "construction management software",
+      "urls": [
+        "https://pmspace.ai/construction-management-software",
+        "https://pmspace.ai/docs/how-space-ai-works"
+      ]
+    },
+    {
+      "topic": "AI in construction",
+      "urls": [
+        "https://pmspace.ai/ai-construction-management",
+        "https://pmspace.ai/resources/ai-construction",
+        "https://pmspace.ai/what-is-construction-ai"
+      ]
+    },
+    {
+      "topic": "construction scheduling and delays",
+      "urls": [
+        "https://pmspace.ai/project-scheduling-software",
+        "https://pmspace.ai/docs/workflows/scheduling",
+        "https://pmspace.ai/how-can-ai-reduce-construction-delays"
+      ]
+    },
+    {
+      "topic": "software comparison and buying",
+      "urls": [
+        "https://pmspace.ai/compare/construction-software-comparison",
+        "https://pmspace.ai/docs/comparison-methodology",
+        "https://pmspace.ai/best-construction-management-software-for-small-contractors"
+      ]
+    }
+  ],
+  "personas": [
+    "Owners and developers",
+    "General contractors",
+    "Subcontractors",
+    "Project managers",
+    "Operations leaders",
+    "Technology leaders"
+  ],
+  "capabilities": [
+    "Construction scheduling",
+    "Delay prediction",
+    "Cost tracking and forecasting",
+    "Document management",
+    "RFI and submittal workflows",
+    "Punch list and closeout coordination",
+    "Field collaboration",
+    "AI-assisted decision support",
+    "Software integrations"
+  ],
+  "queryPages": [
+    "https://pmspace.ai/what-is-construction-ai",
+    "https://pmspace.ai/how-can-ai-reduce-construction-delays",
+    "https://pmspace.ai/best-construction-management-software-for-small-contractors"
+  ]
+}

@@ -1,0 +1,50 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Allow: /_next/static/
+Allow: /_next/image
+Disallow: /admin/
+
+# Googlebot
+User-agent: Googlebot
+Allow: /
+
+# Googlebot-Image
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# Googlebot-Video
+User-agent: Googlebot-Video
+Allow: /videos/
+
+# Bing
+User-agent: bingbot
+Allow: /
+
+# AI Crawlers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+# Host
+Host: https://pmspace.ai
+
+# Sitemaps
+Sitemap: https://pmspace.ai/sitemap.xml
+Sitemap: https://pmspace.ai/image-sitemap.xml
+Sitemap: https://pmspace.ai/video-sitemap.xml
+
+# AI retrieval files
+LLM-Index: https://pmspace.ai/llms.txt
+LLM-Full: https://pmspace.ai/llms-full.txt
+LLM-JSON: https://pmspace.ai/llms.json
+

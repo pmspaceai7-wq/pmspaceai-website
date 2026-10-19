@@ -1,0 +1,4 @@
+# The entire runtime dependency list. Everything else — graph construction,
+# takeoff, CSV and XLSX writing — is Python standard library, on purpose.
+pymupdf>=1.24
+pdfplumber>=0.11

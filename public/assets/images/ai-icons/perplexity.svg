@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Perplexity">
+  <rect width="64" height="64" rx="14" fill="#102325"/>
+  <path fill="#20c5bd" d="M16 10h32v15h6v28H38l-6-7-6 7H10V25h6V10Zm5 5v10h8V15h-8Zm14 0v10h8V15h-8ZM15 30v18h9l8-9 8 9h9V30H35v15l-3-3.4-3 3.4V30H15Z"/>
+  <path fill="#eaffff" d="M29 25h6v20l-3-3.4-3 3.4V25Z"/>
+</svg>

@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "SpaceAI Platform",
+  "description": "AI-powered platform for construction, featuring LLMs, advanced features, and use cases.",
+  "featureList": [
+    "Natural language understanding",
+    "Contextual reasoning",
+    "Multi-modal input support",
+    "Fast inference",
+    "Customizable pipelines",
+    "API integration"
+  ],
+  "useCases": [
+    "Automated content generation",
+    "Semantic search",
+    "Conversational AI",
+    "Document summarization",
+    "Code generation",
+    "Data extraction",
+    "Image captioning",
+    "Video analysis"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://pmspace.ai",
+    "price": "Contact for pricing"
+  }
+}

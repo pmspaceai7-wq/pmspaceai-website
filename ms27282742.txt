@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "pmspace.ai",
+  "Id": "a935e12b-da82-4c05-9d77-c87c76c35f2f"
+}

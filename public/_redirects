@@ -1,0 +1,34 @@
+# Netlify _redirects — version-controlled.
+# File-based rules ALWAYS take precedence over rules configured in the
+# Netlify dashboard. Use 200! (force flag) to ensure these win even when
+# a dashboard rule still exists.
+#
+# All canonical 301/308 redirects are defined in `next.config.mjs` and
+# served by the Next.js runtime. The rules below only EXIST to neutralize
+# stale Netlify dashboard rules that were forcing dynamic detail pages
+# back to their parent listing (e.g. /apps/* → /apps).
+#
+# Each rule below tells Netlify: "do NOT redirect — pass through to the
+# Next.js runtime so it can serve the dynamic detail page."
+
+# Pass-through (no redirect) for sections with dynamic [slug] pages.
+/apps/*               /apps/:splat               200!
+/case-studies/*       /case-studies/:splat       200!
+/white-papers/*       /white-papers/:splat       200!
+/services/*           /services/:splat           200!
+/software/*           /software/:splat           200!
+/tools/*              /tools/:splat              200!
+/blogs/*              /blogs/:splat              200!
+/usecases/*           /usecases/:splat           200!
+/resources/*          /resources/:splat          200!
+/guides/*             /guides/:splat             200!
+/core/*               /core/:splat               200!
+/platform/*           /platform/:splat           200!
+/solutions/*          /solutions/:splat          200!
+/features/*           /features/:splat           200!
+/alternatives/*       /alternatives/:splat       200!
+/compare/*            /compare/:splat            200!
+/industries/*         /industries/:splat         200!
+/locations/*          /locations/:splat          200!
+/customers/*          /customers/:splat          200!
+/videos/*             /videos/:splat             200!

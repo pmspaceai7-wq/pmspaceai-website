@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" role="img" aria-label="Kuwait flag">
+  <rect width="1200" height="200" fill="#007A3D"/>
+  <rect y="200" width="1200" height="200" fill="#FFFFFF"/>
+  <rect y="400" width="1200" height="200" fill="#CE1126"/>
+  <path d="M0 0h360l180 200-180 200H0z" fill="#000000"/>
+</svg>

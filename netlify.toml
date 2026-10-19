@@ -1,0 +1,29 @@
+# Netlify configuration — version-controlled source of truth.
+# File-based rules (this file + public/_redirects) take precedence over
+# rules configured in the Netlify dashboard UI.
+#
+# After deploying this, also remove any leftover dashboard redirects in
+# Netlify → Site configuration → Redirects and rewrites.
+
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  # NEXT_PUBLIC_GOOGLE_MAPS_API_KEY is intentionally exposed to the client
+  # (required for client-side Google Maps JS API usage) and is restricted
+  # via HTTP referrer + API restrictions in Google Cloud Console. The key's
+  # value gets embedded in the webpack build cache, which Netlify's secrets
+  # scanner flags as a false positive. Omit the key AND its literal value.
+  SECRETS_SCAN_OMIT_KEYS = "NEXT_PUBLIC_GOOGLE_MAPS_API_KEY"
+  SECRETS_SCAN_OMIT_PATHS = ".netlify/.next/cache/**"
+  # SECRETS_SCAN_OMIT_* only cover the exact-match scanner. Netlify also runs
+  # a separate "smart detection" heuristic scanner that flags any AIza...-
+  # shaped string in build output (like this same Maps key baked into the
+  # webpack cache) even when it isn't a configured secret. Disable it since
+  # the only value it ever flags here is the intentionally-public Maps key.
+  SECRETS_SCAN_SMART_DETECTION_ENABLED = "false"
+
+# Use the official Next.js runtime for App Router support
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

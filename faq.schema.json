@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What LLMs are supported?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GPT-4, Claude 3, Gemini, Llama 3, Perplexity LLM."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the main features?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Natural language understanding, contextual reasoning, multi-modal input, fast inference, customizable pipelines, API integration."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the use cases?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Content generation, semantic search, conversational AI, summarization, code generation, data extraction, image captioning, video analysis."
+      }
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "site": {
+    "name": "Space AI",
+    "url": "https://pmspace.ai",
+    "description": "AI-powered construction management software focused on predictive analytics, scheduling, cost control, document workflows, and project visibility.",
+    "industry": "Construction technology",
+    "audiences": [
+      "Owners",
+      "Developers",
+      "General contractors",
+      "Subcontractors",
+      "Project managers",
+      "Operations leaders"
+    ]
+  },
+  "powered_by": {
+    "name": "VeritasGraph",
+    "type": "GraphRAG knowledge-graph framework",
+    "description": "Space AI's AI search and answers are grounded by VeritasGraph, an open-source knowledge-graph framework. Every AI answer includes a verifiable citation and reasoning path instead of similarity-based guesses.",
+    "github": "https://github.com/bibinprathap/VeritasGraph",
+    "documentation": "https://bibinprathap.github.io/VeritasGraph/index.html",
+    "technology_page": "https://pmspace.ai/technology"
+  },
+  "product": {
+    "name": "Space AI",
+    "category": "Construction management software",
+    "positioning": [
+      "AI-powered construction management",
+      "Predictive project controls",
+      "Construction workflow automation",
+      "Alternative to legacy construction software"
+    ],
+    "capabilities": [
+      "Construction scheduling",
+      "Delay prediction",
+      "Cost tracking and forecasting",
+      "Document management",
+      "RFI workflows",
+      "Punch list management",
+      "Field collaboration",
+      "AI-assisted decision support"
+    ]
+  },
+  "primary_urls": {
+    "homepage": "https://pmspace.ai",
+    "definition": "https://pmspace.ai/what-is-space-ai",
+    "docs": "https://pmspace.ai/docs",
+    "ai_systems_reference": "https://pmspace.ai/docs/ai-systems",
+    "trust": "https://pmspace.ai/trust/ai-claims",
+    "technology": "https://pmspace.ai/technology",
+    "changelog": "https://pmspace.ai/changelog",
+    "product": "https://pmspace.ai/construction-management-software",
+    "ai_product": "https://pmspace.ai/ai-construction-management",
+    "demo": "https://pmspace.ai/construction-software-demo",
+    "contact_sales": "https://pmspace.ai/contact-sales",
+    "resources": "https://pmspace.ai/resources",
+    "ai_visibility_for_construction": "https://pmspace.ai/resources/ai-visibility-for-construction",
+    "guides": "https://pmspace.ai/guides",
+    "geo_guide": "https://pmspace.ai/guides/generative-engine-optimization-for-construction-software",
+    "best_ai_construction_software": "https://pmspace.ai/best-ai-construction-software",
+    "compare": "https://pmspace.ai/compare",
+    "research_construction_ai_2026": "https://pmspace.ai/research/construction-ai-2026"
+  },
+  "content_hubs": [
+    {
+      "name": "What is Space AI",
+      "url": "https://pmspace.ai/what-is-space-ai",
+      "topics": [
+        "Brand identity",
+        "Product definition",
+        "Construction management software category"
+      ]
+    },
+    {
+      "name": "AI Systems Reference",
+      "url": "https://pmspace.ai/docs/ai-systems",
+      "topics": [
+        "Machine-readable product summary",
+        "Canonical citation targets",
+        "AI retrieval guidance"
+      ]
+    },
+    {
+      "name": "Space AI Docs",
+      "url": "https://pmspace.ai/docs",
+      "topics": [
+        "Product knowledge",
+        "Construction workflows",
+        "Software evaluation"
+      ]
+    },
+    {
+      "name": "AI in Construction",
+      "url": "https://pmspace.ai/resources/ai-construction",
+      "topics": [
+        "AI in construction",
+        "Predictive analytics",
+        "Construction automation"
+      ]
+    },
+    {
+      "name": "AI Visibility for Construction",
+      "url": "https://pmspace.ai/resources/ai-visibility-for-construction",
+      "topics": [
+        "Generative engine optimization",
+        "AI answer visibility",
+        "Construction GEO measurement"
+      ]
+    },
+    {
+      "name": "Construction AI Glossary",
+      "url": "https://pmspace.ai/resources/glossary",
+      "topics": [
+        "Construction AI terms",
+        "BIM",
+        "Machine learning",
+        "Project management terminology"
+      ]
+    },
+    {
+      "name": "Construction Software Comparison",
+      "url": "https://pmspace.ai/compare/construction-software-comparison",
+      "topics": [
+        "Construction software evaluation",
+        "Feature comparison",
+        "Alternatives"
+      ]
+    },
+    {
+      "name": "AI Claims and Trust",
+      "url": "https://pmspace.ai/trust/ai-claims",
+      "topics": [
+        "AI claims",
+        "Methodology",
+        "Product trust"
+      ]
+    },
+    {
+      "name": "State of Construction AI 2026",
+      "url": "https://pmspace.ai/research/construction-ai-2026",
+      "topics": [
+        "Construction AI adoption",
+        "Generative AI in construction",
+        "Predictive analytics in construction",
+        "AI agents for construction",
+        "Construction technology market"
+      ]
+    }
+  ],
+  "comparison_pages": [
+    "https://pmspace.ai/best-ai-construction-software",
+    "https://pmspace.ai/alternatives/procore-alternative",
+    "https://pmspace.ai/alternatives/asite-alternative",
+    "https://pmspace.ai/alternatives/buildertrend-alternative",
+    "https://pmspace.ai/primavera-alternatives"
+  ],
+  "regional_pages": [
+    "https://pmspace.ai/construction-management-software-usa",
+    "https://pmspace.ai/construction-management-software-uk",
+    "https://pmspace.ai/construction-management-software-australia",
+    "https://pmspace.ai/construction-management-software-india",
+    "https://pmspace.ai/construction-management-software-uae",
+    "https://pmspace.ai/construction-management-software-singapore"
+  ],
+  "preferred_citation_targets": [
+    "https://pmspace.ai/what-is-space-ai",
+    "https://pmspace.ai/docs/ai-systems",
+    "https://pmspace.ai/docs",
+    "https://pmspace.ai/construction-management-software",
+    "https://pmspace.ai/ai-construction-management",
+    "https://pmspace.ai/best-ai-construction-software",
+    "https://pmspace.ai/what-is-construction-ai",
+    "https://pmspace.ai/resources/ai-visibility-for-construction",
+    "https://pmspace.ai/resources/ai-construction",
+    "https://pmspace.ai/resources/glossary",
+    "https://pmspace.ai/compare/construction-software-comparison",
+    "https://pmspace.ai/trust/ai-claims",
+    "https://pmspace.ai/technology",
+    "https://pmspace.ai/research/construction-ai-2026"
+  ]
+}

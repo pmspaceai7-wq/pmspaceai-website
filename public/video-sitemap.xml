@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/analyticsreportingsoftware.gif</video:thumbnail_loc>
+      <video:title>Construction Analytics &amp; Reporting Software Demo</video:title>
+      <video:description>See how Space AI delivers powerful construction analytics and automated reporting. Generate insights from project data, track KPIs, and create executive reports in seconds.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/analyticsreportingsoftware.gif</video:content_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>construction analytics</video:tag>
+      <video:tag>project reporting</video:tag>
+      <video:tag>construction KPIs</video:tag>
+      <video:tag>data visualization</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/assetdashboard.gif</video:thumbnail_loc>
+      <video:title>Construction Asset Management Dashboard</video:title>
+      <video:description>Track and manage all your construction assets in one place. Monitor equipment utilization, maintenance schedules, and asset locations across multiple job sites.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/assetdashboard.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>asset management</video:tag>
+      <video:tag>equipment tracking</video:tag>
+      <video:tag>construction assets</video:tag>
+      <video:tag>fleet management</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/bim.gif</video:thumbnail_loc>
+      <video:title>BIM Integration for Construction Management</video:title>
+      <video:description>Seamlessly integrate Building Information Modeling (BIM) with your project management. View 3D models, detect clashes, and coordinate construction activities.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/bim.gif</video:content_loc>
+      <video:duration>15</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>BIM integration</video:tag>
+      <video:tag>building information modeling</video:tag>
+      <video:tag>3D construction</video:tag>
+      <video:tag>clash detection</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/costestimationtool.gif</video:thumbnail_loc>
+      <video:title>AI-Powered Construction Cost Estimation Tool</video:title>
+      <video:description>Generate accurate construction cost estimates with AI. Analyze historical data, material costs, and labor rates to create precise project budgets.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/costestimationtool.gif</video:content_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>cost estimation</video:tag>
+      <video:tag>construction budgeting</video:tag>
+      <video:tag>project costs</video:tag>
+      <video:tag>estimating software</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/designer.gif</video:thumbnail_loc>
+      <video:title>Construction Design Collaboration Tool</video:title>
+      <video:description>Collaborate on construction designs in real-time. Share drawings, markup plans, and coordinate between architects, engineers, and contractors.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/designer.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>design collaboration</video:tag>
+      <video:tag>construction drawings</video:tag>
+      <video:tag>plan markup</video:tag>
+      <video:tag>design coordination</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/documentmanagement.gif</video:thumbnail_loc>
+      <video:title>Intelligent Construction Document Management</video:title>
+      <video:description>AI-powered document management for construction projects. Automatically organize, tag, and search through contracts, drawings, specifications, and RFIs.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/documentmanagement.gif</video:content_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>document management</video:tag>
+      <video:tag>construction documents</video:tag>
+      <video:tag>file organization</video:tag>
+      <video:tag>contract management</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features/communication</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/assets/images/og-image.jpeg</video:thumbnail_loc>
+      <video:title>Space AI Email Integration - Construction Project Communication</video:title>
+      <video:description>See how Space AI streamlines construction project communication with intelligent email integration. Automatically capture and organize project emails, RFIs, and submittals in one place.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/email.mp4</video:content_loc>
+      <video:duration>120</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>construction email management</video:tag>
+      <video:tag>project communication</video:tag>
+      <video:tag>RFI tracking</video:tag>
+      <video:tag>construction software</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/esign.gif</video:thumbnail_loc>
+      <video:title>Electronic Signatures for Construction Contracts</video:title>
+      <video:description>Sign construction contracts, change orders, and approvals digitally. Legally binding e-signatures with full audit trail and compliance.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/esign.gif</video:content_loc>
+      <video:duration>8</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>e-signature</video:tag>
+      <video:tag>digital signatures</video:tag>
+      <video:tag>construction contracts</video:tag>
+      <video:tag>electronic signing</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/files.gif</video:thumbnail_loc>
+      <video:title>Construction File Management System</video:title>
+      <video:description>Centralized file storage for all your construction documents. Version control, access permissions, and smart search built-in.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/files.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>file management</video:tag>
+      <video:tag>document storage</video:tag>
+      <video:tag>version control</video:tag>
+      <video:tag>construction files</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/forms.gif</video:thumbnail_loc>
+      <video:title>Digital Construction Forms &amp; Checklists</video:title>
+      <video:description>Create custom digital forms for safety inspections, daily logs, and quality checks. Collect data in the field, analyze in the office.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/forms.gif</video:content_loc>
+      <video:duration>8</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>digital forms</video:tag>
+      <video:tag>construction checklists</video:tag>
+      <video:tag>safety inspections</video:tag>
+      <video:tag>field data collection</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/inventrymanagement.gif</video:thumbnail_loc>
+      <video:title>Construction Inventory Management System</video:title>
+      <video:description>Track materials, supplies, and equipment inventory across all your construction sites. Automated reordering and stock level alerts.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/inventrymanagement.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>inventory management</video:tag>
+      <video:tag>material tracking</video:tag>
+      <video:tag>construction supplies</video:tag>
+      <video:tag>stock management</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/invoicemanagement.gif</video:thumbnail_loc>
+      <video:title>Construction Invoice &amp; Payment Management</video:title>
+      <video:description>Streamline construction invoicing and payments. Track pay applications, manage retainage, and process subcontractor payments efficiently.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/invoicemanagement.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>invoice management</video:tag>
+      <video:tag>construction payments</video:tag>
+      <video:tag>pay applications</video:tag>
+      <video:tag>billing software</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/projectmanagementdashboard.gif</video:thumbnail_loc>
+      <video:title>Interactive Construction Project Dashboard</video:title>
+      <video:description>See your entire construction portfolio at a glance. Track budgets, timelines, and resources across all active projects with real-time updates.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/projectmanagementdashboard.gif</video:content_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>project dashboard</video:tag>
+      <video:tag>construction overview</video:tag>
+      <video:tag>portfolio management</video:tag>
+      <video:tag>project tracking</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/assets/images/og-image.jpeg</video:thumbnail_loc>
+      <video:title>AI Construction Management Dashboard - Space AI Platform Overview</video:title>
+      <video:description>Explore the AI-powered construction management dashboard. Real-time project insights, predictive analytics, resource tracking, and intelligent scheduling all in one unified view.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/projectmanagementdashboard.mp4</video:content_loc>
+      <video:duration>180</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>construction management dashboard</video:tag>
+      <video:tag>AI project management</video:tag>
+      <video:tag>construction analytics</video:tag>
+      <video:tag>project tracking software</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/schedulingsoftware.gif</video:thumbnail_loc>
+      <video:title>AI Construction Scheduling Software Demo</video:title>
+      <video:description>AI-powered construction scheduling with Gantt charts, critical path analysis, and predictive delay detection. Optimize your project timeline automatically.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/schedulingsoftware.gif</video:content_loc>
+      <video:duration>15</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>construction scheduling</video:tag>
+      <video:tag>Gantt chart</video:tag>
+      <video:tag>project timeline</video:tag>
+      <video:tag>schedule optimization</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/supplychainmanagement.gif</video:thumbnail_loc>
+      <video:title>Construction Supply Chain Management</video:title>
+      <video:description>Manage your entire construction supply chain. Track orders, deliveries, and vendor performance. Reduce delays with predictive procurement.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/supplychainmanagement.gif</video:content_loc>
+      <video:duration>12</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>supply chain</video:tag>
+      <video:tag>procurement</video:tag>
+      <video:tag>vendor management</video:tag>
+      <video:tag>material delivery</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/workflow.gif</video:thumbnail_loc>
+      <video:title>Automated Construction Workflows</video:title>
+      <video:description>Build custom approval workflows for RFIs, submittals, and change orders. Automate repetitive construction processes and reduce bottlenecks.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/workflow.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>workflow automation</video:tag>
+      <video:tag>approval workflows</video:tag>
+      <video:tag>RFI management</video:tag>
+      <video:tag>submittal tracking</video:tag>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://pmspace.ai/features</loc>
+    <video:video>
+      <video:thumbnail_loc>https://pmspace.ai/videos/workstream.gif</video:thumbnail_loc>
+      <video:title>Construction Workstream Management</video:title>
+      <video:description>Organize construction tasks into workstreams. Coordinate between trades, track dependencies, and ensure smooth project execution.</video:description>
+      <video:content_loc>https://pmspace.ai/videos/workstream.gif</video:content_loc>
+      <video:duration>10</video:duration>
+      <video:publication_date>2026-04-21</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:category>Technology</video:category>
+      <video:tag>workstream management</video:tag>
+      <video:tag>task coordination</video:tag>
+      <video:tag>trade scheduling</video:tag>
+      <video:tag>project execution</video:tag>
+    </video:video>
+  </url>
+</urlset>
